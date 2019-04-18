@@ -1,0 +1,13 @@
+#container {
+  position: relative;
+  left: 50%;
+  margin-left: -100px;
+}
+
+#grid {
+  height: 800px;
+  width: 800px;
+  background-color: black;
+  margin: auto;
+  margin-top: 60px;
+}
